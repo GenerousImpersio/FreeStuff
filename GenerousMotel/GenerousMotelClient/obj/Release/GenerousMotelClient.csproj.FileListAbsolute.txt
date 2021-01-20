@@ -1,0 +1,3 @@
+C:\Users\canso\source\repos\GenerousMotel\GenerousMotelClient\bin\Release\GenerousMotelClient.net.dll
+C:\Users\canso\source\repos\GenerousMotel\GenerousMotelClient\obj\Release\GenerousMotelClient.csproj.CoreCompileInputs.cache
+C:\Users\canso\source\repos\GenerousMotel\GenerousMotelClient\obj\Release\GenerousMotelClient.net.dll
