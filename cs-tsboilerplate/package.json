@@ -1,0 +1,37 @@
+{
+  "name": "cs-carcrafting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@citizenfx/client": "^2.0.6446-1",
+    "@citizenfx/server": "^2.0.6446-1",
+    "@types/node": "^20.1.5",
+    "@typescript-eslint/eslint-plugin": "5.59.6",
+    "eslint": "7.1.0",
+    "eslint-loader": "^4.0.2",
+    "fivem-js": "^1.5.2",
+    "remove-files-webpack-plugin": "^1.5.0",
+    "typescript": "^5.0.4",
+    "typescript-eslint": "^0.0.1-alpha.0"
+  },
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "dist",
+    "rootDir": "src"
+  },
+  "scripts": {
+    "build": "webpack --mode development",
+    "watch": "webpack --watch --mode development"
+  },
+  "devDependencies": {
+    "@types/json-schema": "^7.0.11",
+    "@typescript-eslint/parser": "5.0.0",
+    "@typescript-eslint/typescript-estree": "5.9.0",
+    "speed-measure-webpack-plugin": "^1.5.0",
+    "ts-loader": "^9.4.2",
+    "webpack": "^5.82.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
